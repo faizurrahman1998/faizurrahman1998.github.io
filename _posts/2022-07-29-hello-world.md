@@ -1,6 +1,6 @@
 ---
 title: Hello World!
-date: 2022-07-29 21:30:00 +6000
+date: 2022-07-29 03:30:00 +6000
 categories: [welcome,general]
 tags: [welcome,all,general]
 ---
