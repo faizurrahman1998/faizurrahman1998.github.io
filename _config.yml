@@ -23,7 +23,7 @@ timezone: Asia/Dhaka
 
 title: Blank Blog                          # the main title
 
-tagline: just going through...  # it will display as the sub-title
+tagline: strive for progress...  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
         simple blog  
@@ -44,6 +44,7 @@ social:
   email: faizurrahman.fayez@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    #  - https://twitter.com/username # change to your github homepage
     - https://github.com/faizurrahman1998 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
